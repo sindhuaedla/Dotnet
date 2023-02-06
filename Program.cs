@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Enter input1 ");
 int a = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Enter input2");
+Console.WriteLine("Enter input2 ");
 int b = Convert.ToInt32(Console.ReadLine());
 
 int c = a + b;
