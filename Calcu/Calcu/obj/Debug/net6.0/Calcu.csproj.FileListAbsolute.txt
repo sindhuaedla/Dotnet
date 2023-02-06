@@ -1,0 +1,15 @@
+D:\Dotnet\Calcu\Calcu\bin\Debug\net6.0\Calcu.exe
+D:\Dotnet\Calcu\Calcu\bin\Debug\net6.0\Calcu.deps.json
+D:\Dotnet\Calcu\Calcu\bin\Debug\net6.0\Calcu.runtimeconfig.json
+D:\Dotnet\Calcu\Calcu\bin\Debug\net6.0\Calcu.dll
+D:\Dotnet\Calcu\Calcu\bin\Debug\net6.0\Calcu.pdb
+D:\Dotnet\Calcu\Calcu\obj\Debug\net6.0\Calcu.csproj.AssemblyReference.cache
+D:\Dotnet\Calcu\Calcu\obj\Debug\net6.0\Calcu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\Calcu\Calcu\obj\Debug\net6.0\Calcu.AssemblyInfoInputs.cache
+D:\Dotnet\Calcu\Calcu\obj\Debug\net6.0\Calcu.AssemblyInfo.cs
+D:\Dotnet\Calcu\Calcu\obj\Debug\net6.0\Calcu.csproj.CoreCompileInputs.cache
+D:\Dotnet\Calcu\Calcu\obj\Debug\net6.0\Calcu.dll
+D:\Dotnet\Calcu\Calcu\obj\Debug\net6.0\refint\Calcu.dll
+D:\Dotnet\Calcu\Calcu\obj\Debug\net6.0\Calcu.pdb
+D:\Dotnet\Calcu\Calcu\obj\Debug\net6.0\Calcu.genruntimeconfig.cache
+D:\Dotnet\Calcu\Calcu\obj\Debug\net6.0\ref\Calcu.dll
