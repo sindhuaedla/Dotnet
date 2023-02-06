@@ -1,0 +1,15 @@
+E:\DotNet\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+E:\DotNet\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+E:\DotNet\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+E:\DotNet\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+E:\DotNet\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+E:\DotNet\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+E:\DotNet\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+E:\DotNet\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+E:\DotNet\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+E:\DotNet\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+E:\DotNet\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+E:\DotNet\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+E:\DotNet\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+E:\DotNet\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
